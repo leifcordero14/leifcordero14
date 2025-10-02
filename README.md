@@ -1,4 +1,4 @@
-<h1 align="left">Hello World!, I'm Leif, a Dominican Software Engineer 👋🏼</h1>
+<h1 align="left">Hello World!, I'm Leif, a Software Engineer 👋🏼</h1>
 
 <!-- <h2 align="left">About me</h2>
 
