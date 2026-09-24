@@ -1,7 +1,7 @@
 <h2 align="center">
   Hi! I'm Leif Cordero ✨
   </br>
-  I'm a Software Engineering Student 💻
+  I'm a Software Engineer 💻
 </h2>
 
 > "One step at a time".
